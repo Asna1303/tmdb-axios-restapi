@@ -17,6 +17,7 @@ function App() {
       return(
         <div>
           <h1>{index}</h1>
+          <h4>{obj.title}</h4>
         </div>
       )
     })}
